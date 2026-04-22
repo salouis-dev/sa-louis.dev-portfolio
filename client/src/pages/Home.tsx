@@ -230,11 +230,9 @@ export default function Home() {
               </ul>
             </div>
             <div>
-              <h4 className="text-lg font-serif font-bold mb-4">Connect</h4>
+              <h4 className="text-lg font-serif font-bold mb-4">Contact</h4>
               <ul className="space-y-2 text-muted-foreground font-sans">
-                <li><a href="#" className="hover:text-primary transition-colors">Email</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">LinkedIn</a></li>
-                <li><a href="#" className="hover:text-primary transition-colors">GitHub</a></li>
+                <li><a href="mailto:sa.louis.dev@gmail.com" className="hover:text-primary transition-colors">sa.louis.dev@gmail.com</a></li>
               </ul>
             </div>
           </div>
