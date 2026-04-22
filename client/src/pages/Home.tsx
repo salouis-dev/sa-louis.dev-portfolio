@@ -32,7 +32,7 @@ export default function Home() {
       title: "Hotel Luxury Experience",
       subtitle: "Premium Hospitality Design",
       description: "A modern hotel website featuring room showcases, booking system, and immersive visual storytelling.",
-      image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663393692309/78uA4Q27amvEsJSDw4eQHr/hero-hotel-luxury-VwGkR8p5BwZcNpV3AL5ST.webp",
+      image: "https://d2xsxph8kpxj0f.cloudfront.net/310519663393692309/78uA4Q27amvEsJSDw4eQHr/hotel-luxury-experience-aBJgBA2reZz3Hs9zLpUUwq.webp",
       links: [
         { label: "View Project", url: "#" }
       ],
