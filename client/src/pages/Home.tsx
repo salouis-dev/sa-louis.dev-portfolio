@@ -102,9 +102,11 @@ export default function Home() {
               <Button className="bg-primary text-primary-foreground hover:bg-primary/90 font-ui text-base px-8 py-6">
                 View My Work <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
-              <Button variant="outline" className="border-primary text-primary hover:bg-primary/10 font-ui text-base px-8 py-6">
-                Get in Touch
-              </Button>
+                <a href="/contact">
+                <Button variant="outline" className="border-primary text-primary hover:bg-primary/10 font-ui text-base px-8 py-6">
+                  Get in Touch
+                </Button>
+              </a>
             </div>
           </div>
         </div>
@@ -207,9 +209,11 @@ export default function Home() {
           <p className="text-xl text-muted-foreground font-sans mb-8 max-w-2xl mx-auto leading-relaxed">
             Let's create a stunning website that showcases your restaurant or hotel and converts visitors into loyal guests.
           </p>
-          <Button className="bg-primary text-primary-foreground hover:bg-primary/90 font-ui text-base px-8 py-6">
-            Start Your Project <ArrowRight className="ml-2 w-5 h-5" />
-          </Button>
+          <a href="/contact">
+            <Button className="bg-primary text-primary-foreground hover:bg-primary/90 font-ui text-base px-8 py-6">
+              Start Your Project <ArrowRight className="ml-2 w-5 h-5" />
+            </Button>
+          </a>
         </div>
       </section>
 
